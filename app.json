@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#FFFFFF",
+        "foregroundImage": "./src/assets/adaptive-icon.png"
+      }
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "icon": "./src/assets/icon.png",
+    "ios": {
+      "supportsTablet": true
+    },
+    "name": "who-sings-app",
+    "orientation": "portrait",
+    "platforms": [
+      "android",
+      "ios",
+      "web"
+    ],
+    "slug": "who-sings-app",
+    "splash": {
+      "backgroundColor": "#ffffff",
+      "image": "./src/assets/splash.png",
+      "resizeMode": "contain"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "version": "1.0.0",
+    "web": {
+      "favicon": "./src/assets/favicon.png"
+    }
+  }
+}

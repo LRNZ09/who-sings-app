@@ -1,0 +1,10 @@
+{
+    "cSpell.words": [
+        "apikey",
+        "whosings"
+    ],
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "git.ignoreLimitWarning": true
+}
